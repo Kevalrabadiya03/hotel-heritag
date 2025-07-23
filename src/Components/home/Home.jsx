@@ -1,16 +1,5 @@
 import React from "react";
-import left from "../../assets/left-side.png";
-import right from "../../assets/right-side.png";
 import whatsapp from "../../assets/whatsapp.png";
-import aboutImg from "../../assets/about-image.png";
-import aboutLine from "../../assets/about-Line.png";
-import checkIcon from "../../assets/check-circle.png";
-import galleryOne from "../../assets/gallery-1.png";
-import galleryTwo from "../../assets/gallery-2.png";
-import galleryThree from "../../assets/gallery-3.png";
-import galleryFour from "../../assets/gallery-4.png";
-import galleryFive from "../../assets/gallery-5.png";
-import gallerySix from "../../assets/gallery-6.png";
 
 function Home() {
   return (
